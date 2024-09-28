@@ -1,0 +1,14 @@
+.env
+env/
+/env/
+
+.vscode/
+/.vscode/
+
+
+# Ignorar archivos de caché de Python
+**/__pycache__/
+**/*.pyc
+*.pyc
+__pycache__/
+*.txt
